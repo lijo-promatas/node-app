@@ -1,6 +1,6 @@
 module.exports = {
     apps : [{
-      name: "olive-backend",
+      name: "node-backend",
       script: "app.js",
       instances: "max",
       max_memory_restart: "256M",
